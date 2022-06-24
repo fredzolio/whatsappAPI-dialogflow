@@ -11,3 +11,5 @@ Rodar ambos nodes em pm2.
 
 Criar credenciais no Google Cloud Console para o DialogFlow e baixar o arquivo .json e mudar no dialog.js o nome do arquivo.
 ps: manter esse arquivo na mesma pasta do dialog.js
+
+No DialogFlow, é necessário habilitar o Webhook e no Home Assistant criar um hook para escutar as chamadas do Dialog que enviarão as mensagens.
