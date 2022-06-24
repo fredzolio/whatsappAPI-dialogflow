@@ -5,7 +5,7 @@ const http = require('http');
 const {WebhookClient} = require('dialogflow-fulfillment'); 
 const dialogflow = require('@google-cloud/dialogflow');
 const app = express();
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8000; //DEFINIR PORTAS
 const server = http.createServer(app);
 
 venom 
