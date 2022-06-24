@@ -13,3 +13,5 @@ Criar credenciais no Google Cloud Console para o DialogFlow e baixar o arquivo .
 ps: manter esse arquivo na mesma pasta do dialog.js
 
 No DialogFlow, é necessário habilitar o Webhook e no Home Assistant criar um hook para escutar as chamadas do Dialog que enviarão as mensagens.
+
+É necessário a instalação das dependências usadas, por enquanto peço que olhem diretamente nos .js as dependências e as instale, ainda vou fazer aqui tudo bonitinho.
