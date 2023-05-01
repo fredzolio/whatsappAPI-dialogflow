@@ -1,7 +1,7 @@
 # whatsappAPI-full-home-automation
-Envio e recebimento de mensagens por BOT no whatsapp usando DialogFlow e ativações de automações via Node Red no Home Assistant.
+Envio e recebimento de mensagens por BOT no whatsapp usando DialogFlow.
 
-Finalizei meu projeto dia 24/06/2022, ainda vou disponibilizar tudo aqui, assim que sobrar um tempinho.
+Projeto ainda em desenvolvimento, podendo sofrer alterações ou adições.
 
 Uso o VENOM-BOT, DialogFlow, Node.js, Home assistant, Node-red.
 
@@ -14,4 +14,4 @@ ps: manter esse arquivo na mesma pasta do dialog.js
 
 No DialogFlow, é necessário habilitar o Webhook e no Home Assistant criar um hook para escutar as chamadas do Dialog que enviarão as mensagens.
 
-É necessário a instalação das dependências usadas, por enquanto peço que olhem diretamente nos .js as dependências e as instale, ainda vou fazer aqui tudo bonitinho.
+É necessário a instalação das dependências usadas, por enquanto peço que olhem diretamente nos arquivo .js as dependências e as instale.
